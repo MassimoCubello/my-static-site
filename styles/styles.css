@@ -1,0 +1,33 @@
+/* Intro to Web Development Assignment: Week 5 */
+/* Host a static website built with HTML and CSS using GitHub Pages */
+
+/* Styles */
+
+body { 
+    font-family: Arial, sans-serif; 
+    margin: 0; 
+    padding: 0; 
+    background-color: #ffffff; 
+    color: #333; 
+}   
+header { 
+    background: #234d67; 
+    color: #ffffff; 
+    padding: 10px 0; 
+    text-align: center; 
+}
+section { 
+    padding: 25px; 
+    margin: 25px; 
+    background: #ffffff; 
+    border-radius: 10px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+}
+footer { 
+    text-align: center; 
+    padding: 10px 0; 
+    background: #2b3b45; 
+    color: #ffffff; 
+    width: 100%; 
+    bottom: 0; 
+}
